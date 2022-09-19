@@ -1,0 +1,1 @@
+# A LinkedIn Clone made using HTML, CSS and Bootstrap for the assignment *[patika.dev](https://www.patika.dev) Frontend Web Development Bootstrap Homework - 2*.
